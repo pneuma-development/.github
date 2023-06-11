@@ -1,1 +1,1 @@
-![commits](https://badget.net/github/commits/tablelist/next-widgets)
+![commits](https://badget.net/badge/Status/Planning/purple?icon=codebeat)
